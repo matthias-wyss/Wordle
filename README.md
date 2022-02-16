@@ -12,8 +12,8 @@ Worldle is a clone of Josh Wardle's game written in Python.
 
 ### Libraries used
 
-* [pygame](https://www.pygame.org) : ``` python3 pip3 install pygame ```
-* [requests](https://docs.python-requests.org) : ``` python3 pip3 install requests ```
+* [pygame](https://www.pygame.org) : ``` pip3 install pygame ```
+* [requests](https://docs.python-requests.org) : ``` pip3 install requests ```
 
 ### How to use
 
