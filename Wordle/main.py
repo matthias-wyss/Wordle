@@ -31,9 +31,9 @@ smallFont = pygame.font.SysFont("Helvetica neue", 30)
 font = pygame.font.SysFont("Helvetica neue", 40)
 bigFont = pygame.font.SysFont("Helvetica neue", 80)
 
-url5 = "https://matthiaswyss.fr/projects/Wordle/word5.txt"
-url6 = "https://matthiaswyss.fr/projects/Wordle/word6.txt"
-url7 = "https://matthiaswyss.fr/projects/Wordle/word7.txt"
+url5 = "https://matthiaswyss.fr/projects/Wordle/WordOfTheDay/word5.txt"
+url6 = "https://matthiaswyss.fr/projects/Wordle/WordOfTheDay/word6.txt"
+url7 = "https://matthiaswyss.fr/projects/Wordle/WordOfTheDay/word7.txt"
 
 wordle_text = bigFont.render("WORDLE", True, lightGreen)
 nouveaux_mots_text = smallFont.render("NOUVEAUX MOTS A 00H00", True, lightGreen)
