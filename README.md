@@ -26,7 +26,7 @@ After each guess, the color of the tiles will change to show how close your gues
 
 * Green : The letter is in the word and in the correct spot
 * Yellow : The letter is in the word but in the wrong spot
-* Grey : The letter U is not in the word in any spot
+* Grey : The letter is not in the word in any spot
 
 ### Author
 
